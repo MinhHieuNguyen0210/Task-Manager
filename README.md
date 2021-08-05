@@ -1,4 +1,4 @@
-# Project_1-
+
 Build a system manager on window
 
 Xây dựng phần mềm quản lý tác vụ cung cấp chức năng quản lý các tiến trình đang chạy trên máy tính. 
